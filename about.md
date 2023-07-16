@@ -26,7 +26,7 @@ permalink: /about/
         <div class="ml-auto mr-auto">
           <div class="row">
             <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="zoom-in" data-aos-anchor-placement="bottom-center">
+              <div class="cc-porfolio-image img-raised" data-aos="zoom-in" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality-lore.jpg" alt="Image"/>
                   <figcaption>
                     <a href="lore"></a>
@@ -34,7 +34,7 @@ permalink: /about/
                   </figcaption>
                 </figure>
               </div>
-              <div class="cc-porfolio-image img-raised" data-aos="zoom-in" data-aos-anchor-placement="bottom-center">
+              <div class="cc-porfolio-image img-raised" data-aos="zoom-in" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality-organizations.jpg" alt="Image"/>
                   <figcaption>
                     <a href="../404.html"></a>
@@ -44,7 +44,7 @@ permalink: /about/
               </div>
             </div>
             <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="zoom-in" data-aos-anchor-placement="bottom-center">
+              <div class="cc-porfolio-image img-raised" data-aos="zoom-in" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality-world_map.jpg" alt="Image"/>
                   <figcaption>
                     <a href="regions"></a>
@@ -52,7 +52,7 @@ permalink: /about/
                   </figcaption>
                 </figure>
               </div>
-              <div class="cc-porfolio-image img-raised" data-aos="zoom-in" data-aos-anchor-placement="bottom-center">
+              <div class="cc-porfolio-image img-raised" data-aos="zoom-in" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality-characters.jpg" alt="Image"/>
                   <figcaption>
                     <a href="characters"></a>

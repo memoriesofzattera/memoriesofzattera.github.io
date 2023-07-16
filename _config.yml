@@ -1,9 +1,7 @@
-title: Dovs' Personal Blog
+title: Memories of Zattera
 name: "Hugo's Personal Blog"
 author: Hugo Siqueira Gomes
-email: hugodovs@gmail.com
-twitter_username: hugodovs
-github_username:  hugodovs
+email: memoriesofzattera@gmail.com
 description: >-
   Repository of hugodovs' brain.
 baseurl: "" 

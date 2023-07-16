@@ -2,7 +2,7 @@
 title: project-legacy_of_reality
 topic: miscellaneous
 layout: only_header_and_footer
-permalink: /projects/the_book_of_souls/characters/
+permalink: /about/characters/
 ---
 
 

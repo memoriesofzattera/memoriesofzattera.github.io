@@ -1,23 +1,12 @@
 ---
-title: project-legacy_of_reality
-topic: miscellaneous
+title: Characters
 layout: only_header_and_footer
-permalink: /about/characters/
+permalink: /characters/
 ---
 
 
 <div class="section" id="about">
   <div class="container">
-    <div class="h1 text-center mb-4 title" style="text-align: left;">
-      <figure class="cc-effect">
-        <img src="/assets/images/project-legacy_of_reality-name.jpg" alt="Image"/>
-      </figure>  
-    </div>
-    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-      <figure class="cc-effect">
-        <img src="/assets/images/project-legacy_of_reality-title.jpg" alt="Image"/>
-      </figure>
-    </div>
     <br>
     <br>
     <br>

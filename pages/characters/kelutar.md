@@ -1,23 +1,11 @@
 ---
-title: project-legacy_of_reality
-topic: miscellaneous
 layout: only_header_and_footer
-permalink: /projects/the_book_of_souls/characters/kelutar/
+permalink: /characters/kelutar/
 ---
 
 
 <div class="section" id="about">
   <div class="container">
-    <div class="h1 text-center mb-4 title" style="text-align: left;">
-      <figure class="cc-effect">
-        <img src="/assets/images/project-legacy_of_reality-name.jpg" alt="Image"/>
-      </figure>  
-    </div>
-    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-      <figure class="cc-effect">
-        <img src="/assets/images/project-legacy_of_reality-title.jpg" alt="Image"/>
-      </figure>
-    </div>
     <div class="section" id="about">
       <div class="container">
         <div class="card" data-aos="fade-up" data-aos-offset="10">

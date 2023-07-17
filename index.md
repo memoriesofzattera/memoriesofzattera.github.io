@@ -1,7 +1,6 @@
 ---
-title: About
 layout: only_header_and_footer
-permalink: /about/
+order: 1
 ---
 
 <div class="section" id="about">

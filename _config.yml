@@ -7,7 +7,6 @@ description: >-
 baseurl: "" 
 profile_url: "http://memoriesofzattera.github.io"
 
-
 #Paginate in Blog:
 paginate: 3
 paginate_path: "/blog/page:num"
@@ -24,3 +23,5 @@ collections:
     #layout: project
     #image: https://via.placeholder.com/800x600
     #show_sidebar: false
+plugins:
+  - jekyll-redirect-from

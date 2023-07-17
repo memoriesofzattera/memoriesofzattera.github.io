@@ -1,6 +1,6 @@
 ---
 layout: only_header_and_footer
-permalink: /regions/vistenbrook/
+permalink: /regions/varusia/
 ---
 
 
@@ -11,7 +11,7 @@ permalink: /regions/vistenbrook/
         <div class="card" data-aos="fade-up" data-aos-offset="10">
         <br>
         <div class="h1 text-center mb-4 title">
-          Vistenbrook
+          Varúsia
         </div>
         <div>
           <div class="col-lg-12">

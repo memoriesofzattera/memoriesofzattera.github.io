@@ -1,28 +1,11 @@
 ---
-title: project-legacy_of_reality
-topic: miscellaneous
 layout: only_header_and_footer
-permalink: /projects/the_book_of_souls/lore/
+permalink: /timeline/
 ---
-
 
 <div class="section" id="about">
   <div class="container">
-    <div class="h1 text-center mb-4 title" style="text-align: left;">
-      <figure class="cc-effect">
-        <img src="/assets/images/project-legacy_of_reality-name.jpg" alt="Image"/>
-      </figure>  
-    </div>
-    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-      <figure class="cc-effect">
-        <img src="/assets/images/project-legacy_of_reality-title.jpg" alt="Image"/>
-      </figure>
-    </div>
-    <br>
-    <br>
-    <br>
-
-  <div class="container">
+      <div class="h1 mt-2 title"><center>History and Timelines</center></div>
       <div class="row">
           <div class="col-md-12">
               <div class="card">
@@ -31,7 +14,7 @@ permalink: /projects/the_book_of_souls/lore/
                       <br>
                       <div id="content">
                           <ul class="timeline">
-                              <a href="I-death_of_king_arthur"><li class="event" data-date="YEAR 123">
+                              <a href="IV-death_of_king_arthur"><li class="event" data-date="YEAR 123">
                                   <h3>Death of King Arthur</h3>
                               </li></a>
                               <li class="event" data-date="YEAR 123">

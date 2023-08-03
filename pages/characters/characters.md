@@ -89,17 +89,6 @@ permalink: /characters/
                 </figure>
               </div>
             </div>
-            <div class="col">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                <figure class="cc-effect"><img style="display:block;margin-left: auto;margin-right: auto;" src="/assets/images/project-legacy_of_reality-character-auriol.png" alt="Image"/>
-                <h4 style="text-align:center">Coming</h4>
-                  <figcaption>
-                    <a href="ERROR"></a>
-                    <div class="h4">TODO</div>
-                  </figcaption>
-                </figure>
-              </div>
-            </div>
           </div>
         </div>
       </div>

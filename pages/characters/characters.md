@@ -14,63 +14,19 @@ permalink: /characters/
       Characters
     </div>
     <div class="h2 text-left mb-4 title">
-      The Legacy
+      Royal Vanguard
     </div>    
     <div class="tab-content gallery mt-5">
       <div class="tab-pane active" id="miscellaneous1">
         <div class="ml-auto mr-auto">
           <div class="row">
-            <div class="col">
+            <div class="col-md-2">
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                <figure class="cc-effect"><img style="display:block;margin-left: auto;margin-right: auto;" src="/assets/images/project-legacy_of_reality-character-auriol.png" alt="Image"/>
-                <h4 style="text-align:center">Kelutar</h4>
+                <figure class="cc-effect"><img style="display:block;margin-left: auto;margin-right: auto;" src="/pages/characters/Baruk/BarukImage.jpg" alt="Image"/>
+                <h4 style="text-align:center">Baruk</h4>
                   <figcaption>
-                    <a href="kelutar"></a>
-                    <div class="h4">Check Lore</div>
-                  </figcaption>
-                </figure>
-              </div>
-            </div>
-            <div class="col">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                <figure class="cc-effect"><img style="display:block;margin-left: auto;margin-right: auto;" src="/assets/images/project-legacy_of_reality-character-auriol.png" alt="Image"/>
-                <h4 style="text-align:center">Coming</h4>
-                  <figcaption>
-                    <a href="ERROR"></a>
-                    <div class="h4">TODO</div>
-                  </figcaption>
-                </figure>
-              </div>
-            </div>
-            <div class="col">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                <figure class="cc-effect"><img style="display:block;margin-left: auto;margin-right: auto;" src="/assets/images/project-legacy_of_reality-character-auriol.png" alt="Image"/>
-                <h4 style="text-align:center">Coming</h4>
-                  <figcaption>
-                    <a href="ERROR"></a>
-                    <div class="h4">TODO</div>
-                  </figcaption>
-                </figure>
-              </div>
-            </div>
-            <div class="col">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                <figure class="cc-effect"><img style="display:block;margin-left: auto;margin-right: auto;" src="/assets/images/project-legacy_of_reality-character-auriol.png" alt="Image"/>
-                <h4 style="text-align:center">Coming</h4>
-                  <figcaption>
-                    <a href="ERROR"></a>
-                    <div class="h4">TODO</div>
-                  </figcaption>
-                </figure>
-              </div>
-            </div>
-            <div class="col">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                <figure class="cc-effect"><img style="display:block;margin-left: auto;margin-right: auto;" src="/assets/images/project-legacy_of_reality-character-auriol.png" alt="Image"/>
-                <h4 style="text-align:center">Coming</h4>
-                  <figcaption>
-                    <a href="ERROR"></a>
-                    <div class="h4">TODO</div>
+                    <a href="royal_vanguard/baruk"></a>
+                    <div class="h4">The Accursed</div>
                   </figcaption>
                 </figure>
               </div>

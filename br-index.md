@@ -1,17 +1,17 @@
 ---
-layout: only_header_and_footer
+layout: br-only_header_and_footer
 order: 1
-permalink: /en/
+permalink: /br/
 ---
 
 <div class="section" id="about">
   <div class="container">
     <div class="h1 text-center mb-4 title cc-porfolio-image img-raised" data-aos="zoom-in" data-aos-anchor-placement="top-bottom">
       <div class="card-body">
-        <div class="h5 mt-0 title">Memories of Zattera</div>
+        <div class="h5 mt-0 title">Memórias de Zattera</div>
           <div style="text-align: left;">
             <font size="-1">
-            <p>Welcome to "Memories of Zattera," an immersive universe blending ancient mysticism and industrial progress. Fey trickery, monsters, and brigands threaten the land, while communities harmonize with magical forces. Industrialization disrupts the enchanted world, as railroads displace mythical creatures and heroes duel with pistols and arcane fusils. Ideologies clash, nations teeter on the edge, and your choices shape the world. Gather your companions, embrace magic and industry, and define an era in "Memories of Zattera."</p>
+            <p>Bem-vindos a "Memórias de Zattera", um universo imersivo que mescla misticismo ancestral e progresso industrial. Trapaças feéricas, monstros e salteadores ameaçam a terra, enquanto comunidades harmonizam com forças mágicas. A industrialização perturba o mundo encantado, à medida que ferrovias deslocam criaturas míticas e heróis duelam com pistolas e fusis arcanos. Ideologias se chocam, nações vacilam à beira do abismo e suas escolhas moldam o mundo. Reúna seus companheiros, abrace a magia e a indústria, e defina uma era em "Memórias de Zattera".</p>
             </font>
           </div>
         </div>
@@ -23,7 +23,7 @@ permalink: /en/
     <br>
     <br>
     <div class="h1 text-center mb-4 title">
-      Explore
+      Navegar
     </div>
     <div class="tab-content gallery mt-5">
       <div class="tab-pane active" id="miscellaneous1">
@@ -34,7 +34,7 @@ permalink: /en/
                 <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality-lore.jpg" alt="Image"/>
                   <figcaption>
                     <a href="/timeline"></a>
-                    <div class="h4">History and Timelines</div>
+                    <div class="h4">História e Linha do Tempo</div>
                   </figcaption>
                 </figure>
               </div>
@@ -42,7 +42,7 @@ permalink: /en/
                 <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality-organizations.jpg" alt="Image"/>
                   <figcaption>
                     <a href="/organizations"></a>
-                    <div class="h4">Factions and Organizations</div>
+                    <div class="h4">Facções e Organizações</div>
                   </figcaption>
                 </figure>
               </div>
@@ -52,7 +52,7 @@ permalink: /en/
                 <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality-world_map.jpg" alt="Image"/>
                   <figcaption>
                     <a href="/regions"></a>
-                    <div class="h4">Regions and Locations</div>
+                    <div class="h4">Regiões e Localizações</div>
                   </figcaption>
                 </figure>
               </div>
@@ -60,7 +60,7 @@ permalink: /en/
                 <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality-characters.jpg" alt="Image"/>
                   <figcaption>
                     <a href="/characters"></a>
-                    <div class="h4">Characters and Lore</div>
+                    <div class="h4">Personagens e Tradições</div>
                   </figcaption>
                 </figure>
               </div>

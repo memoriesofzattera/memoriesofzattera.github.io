@@ -7,6 +7,12 @@ description: >-
 baseurl: "" 
 profile_url: "http://memoriesofzattera.github.io"
 
+languages:
+  - code: en
+    name: English
+  - code: br
+    name: Portuguese
+
 #Paginate in Blog:
 paginate: 3
 paginate_path: "/blog/page:num"

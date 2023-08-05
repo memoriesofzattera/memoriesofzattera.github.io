@@ -33,7 +33,7 @@ permalink: /en/
               <div class="cc-porfolio-image img-raised" data-aos="zoom-in" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality-lore.jpg" alt="Image"/>
                   <figcaption>
-                    <a href="/timeline"></a>
+                    <a href="timeline"></a>
                     <div class="h4">History and Timelines</div>
                   </figcaption>
                 </figure>
@@ -41,7 +41,7 @@ permalink: /en/
               <div class="cc-porfolio-image img-raised" data-aos="zoom-in" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality-organizations.jpg" alt="Image"/>
                   <figcaption>
-                    <a href="/organizations"></a>
+                    <a href="organizations"></a>
                     <div class="h4">Factions and Organizations</div>
                   </figcaption>
                 </figure>
@@ -51,7 +51,7 @@ permalink: /en/
               <div class="cc-porfolio-image img-raised" data-aos="zoom-in" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality-world_map.jpg" alt="Image"/>
                   <figcaption>
-                    <a href="/regions"></a>
+                    <a href="regions"></a>
                     <div class="h4">Regions and Locations</div>
                   </figcaption>
                 </figure>
@@ -59,7 +59,7 @@ permalink: /en/
               <div class="cc-porfolio-image img-raised" data-aos="zoom-in" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality-characters.jpg" alt="Image"/>
                   <figcaption>
-                    <a href="/characters"></a>
+                    <a href="characters"></a>
                     <div class="h4">Characters and Lore</div>
                   </figcaption>
                 </figure>

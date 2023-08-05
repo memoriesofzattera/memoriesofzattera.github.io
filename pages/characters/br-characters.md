@@ -1,7 +1,7 @@
 ---
 title: Characters
 layout: only_header_and_footer
-permalink: /en/characters/
+permalink: /br/characters/
 ---
 
 
@@ -11,10 +11,10 @@ permalink: /en/characters/
     <br>
     <br>
     <div class="h1 text-center mb-4 title">
-      Characters
+      Personagens
     </div>
     <div class="h2 text-left mb-4">
-      <a href="../organizations/royal_vanguard" class="text-black-500 underline hover:text-black-700 cursor-pointer">Royal Vanguard</a>
+      <a href="../organizations/royal_vanguard" class="text-black-500 underline hover:text-black-700 cursor-pointer">Patrulha Real</a>
     </div>
     <div class="tab-content gallery mt-5">
       <div class="tab-pane active" id="miscellaneous1">
@@ -39,7 +39,7 @@ permalink: /en/characters/
     <br>
     <br>
     <div class="h2 text-left mb-4">
-      <a href="../organizations/icy_triad" class="text-black-500 underline hover:text-black-700 cursor-pointer">Icy Triad</a>
+      <a href="../organizations/icy_triad" class="text-black-500 underline hover:text-black-700 cursor-pointer">Trio Calafrio</a>
     </div>   
     <div class="tab-content gallery mt-5">
       <div class="tab-pane active" id="miscellaneous1">

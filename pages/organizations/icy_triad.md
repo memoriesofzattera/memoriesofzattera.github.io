@@ -1,6 +1,6 @@
 ---
 layout: only_header_and_footer
-permalink: /organizations/crown_guardians
+permalink: en/organizations/icy_triad
 ---
 
 
@@ -11,7 +11,7 @@ permalink: /organizations/crown_guardians
         <div class="card" data-aos="fade-up" data-aos-offset="10">
         <br>
         <div class="h1 text-center mb-4 title">
-          Crown Guardians
+          Icy Triad
         </div>
         <div>
           <div class="col-lg-12">

@@ -1,6 +1,6 @@
 ---
 layout: only_header_and_footer
-permalink: /en/characters/icy_triad/baruk/
+permalink: /characters/royal_vanguard/baruk/
 ---
 
 
@@ -21,7 +21,7 @@ permalink: /en/characters/icy_triad/baruk/
                 - Baruk, battle against Frostgaze - the Glacial Beholder with the Icy Triad. 
                 <br><br>
                 <div class="h4 mt-0 title">Short Description</div>
-                Baruk, the Accursed, is a battle-hardened barbarian and former member of the Gentle Storm tribe. His life took a tragic turn when a quimera attacked his village, claiming the lives of his beloved wife and son. Filled with grief and anger, he cursed the god Trithereon for not granting him vengeance. In his quest for a worthy opponent to end his life and reunite with his family, he roams the dangerous lands on the fringes of Zattera, yearning for an honorable death in combat.
+                Baruk, o Amaldiçoado, is a battle-hardened barbarian and former member of the Gentle Storm tribe. His life took a tragic turn when a quimera attacked his village, claiming the lives of his beloved wife and son. Filled with grief and anger, he cursed the god Trithereon for not granting him vengeance. In his quest for a worthy opponent to end his life and reunite with his family, he roams the dangerous lands on the fringes of Zattera, yearning for an honorable death in combat.
                 <br><br>
                 Recently, he relocated to Ahlfar alongside the Icy Triad group, swiftly assuming responsibility for fostering relationships with various groups within the realm of Ortrus.
                 <br><br>
@@ -53,7 +53,7 @@ permalink: /en/characters/icy_triad/baruk/
               <div class="card-body">
                 <div class="h4 mt-0 title" style="text-align: center;">Baruk</div>
                 <br>
-                <img style="display:block;margin-left: auto;margin-right: auto;" src="/pages/characters/icy_triad/Baruk/BarukImage.jpg" alt="Image"/>
+                <img style="display:block;margin-left: auto;margin-right: auto;" src="/pages/characters/Baruk/BarukImage.jpg" alt="Image"/>
                 <br>
                 <div style="text-align: center;"><strong class="text-uppercase">Birth</strong></div>
                 <br>

@@ -1,6 +1,6 @@
 ---
 layout: only_header_and_footer
-permalink: /timeline/
+permalink: /en/timeline/
 ---
 
 <div class="section" id="about">

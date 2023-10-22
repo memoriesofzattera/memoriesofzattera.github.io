@@ -1,9 +1,9 @@
 ---
-layout: only_header_and_footer
+layout: example
 permalink: /en/regions/
 ---
 
-<div class="section" id="about">
+<!--div class="section" id="about">
   <div class="container">
     <div class="h1 text-center mb-4 title">
       World Map
@@ -21,4 +21,4 @@ permalink: /en/regions/
       <a href="kyrguios" class="text-black-500 underline hover:text-black-700 cursor-pointer">Kyrguios</a>
     </div>   
   </div>
-</div>
+</div-->

@@ -2,6 +2,9 @@
 <html>
   <body id="top">
     {% include head.html %}
+    {% if page.include_map %}
+      {% include map_style.html %}
+    {% endif %}
     {% include header.html %}
     <div class="page-content">
       <div>
@@ -10,6 +13,9 @@
     </div>
     {% include footer.html %}
     {% include footer-scripts.html %}
+    {% if page.include_map %}
+      {% include map_script.html %}
+    {% endif %}
   </body>
 </html>
 

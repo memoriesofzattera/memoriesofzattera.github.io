@@ -1,0 +1,25 @@
+<script>
+    const map = document.getElementById("map");
+    const tooltip = document.getElementById("map-tooltip");
+    const regions = document.querySelectorAll("path"); // Select all map regions
+    console.log(map);
+    console.log(tooltip);
+    console.log(regions);
+    regions.forEach(region => {
+        region.addEventListener("mouseover", () => {
+            console.log("mouseover");
+            const regionTitle = region.id.replace("region", "Region "); // Get the title for the region
+            console.log(regionTitle);
+            tooltip.textContent = regionTitle;
+            tooltip.style.display = "block";
+        });
+        region.addEventListener("mouseout", () => {
+            tooltip.style.display = "none";
+        });
+        region.addEventListener("mousemove", (e) => {
+            console.log("mousemove");
+            tooltip.style.left = e.pageX + "px";
+            tooltip.style.top = e.pageY + "px";
+        });
+    });
+</script>
